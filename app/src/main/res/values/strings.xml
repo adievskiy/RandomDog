@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomDog</string>
+    <string name="textDownloadBTN">Загрузить</string>
+    <string name="titleMenuExit">Выход</string>
+</resources>
